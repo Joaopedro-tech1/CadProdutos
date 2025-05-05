@@ -10,7 +10,8 @@ Este projeto é um sistema de cadastro de produtos, desenvolvido com **Spring Bo
 - Exclusão de produtos
 
 ## Tecnologias utilizadas
-
+- **Postman** (para testar as requisições HTTP).
+- **VS Code** (ambiente de desenvolvimento).
 - **Spring Boot**: Framework para desenvolvimento de aplicações Java.
 - **Spring Web**: Para criar APIs RESTful.
 - **Spring Data JPA**: Para integração com o banco de dados e realizar operações CRUD.
