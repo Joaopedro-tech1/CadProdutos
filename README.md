@@ -31,4 +31,4 @@ Antes de começar, verifique se você tem os seguintes pré-requisitos instalado
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Joaopedro-tech1/CadProdutos.git
+   git clone https://github.com/Joaopedro-tech1/CadProdutos_Spring.Boot.git
